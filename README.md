@@ -35,8 +35,6 @@ Le projet se concentrera sur l’utilisation de DBT (Data Build Tool) pour orche
 
 ## Présentation des données
 
-### Contexte
-
 Le jeu de données présenté ici provient d'une entreprise de vente au détail qui souhaite mieux comprendre ses opérations commerciales. Il contient des informations sur les clients, les produits, les commandes, les magasins, et les approvisionnements. Ce jeu de données permet de suivre plusieurs aspects clés du business, tels que :
 
 - **Suivi des commandes clients** : Comprendre qui achète quoi, quand, et dans quel magasin.
